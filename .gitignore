@@ -3,5 +3,6 @@ groupblog/__pycache__
 blogapp/__pycache__
 blogapp/migrations
 ! blogapp/migrations/__init__
+db.sqlite3
 
 groupblog/settings.py

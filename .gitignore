@@ -4,5 +4,7 @@ blogapp/__pycache__
 blogapp/migrations
 ! blogapp/migrations/__init__
 db.sqlite3
+media/profile_pics/*
+! media/profile_pics
 
 groupblog/settings.py
